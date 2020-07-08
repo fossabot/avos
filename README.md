@@ -1,4 +1,4 @@
-             _  ____   ____   ___     ______   
+_  ____   ____   ___     ______   
             / \|_  _| |_  _|.'   `. .' ____ \  
            / _ \ \ \   / / /  .-.  \| (___ \_| 
           / ___ \ \ \ / /  | |   | | _.____`.  
@@ -11,6 +11,7 @@ dashboard for OpenStack clouds giving developers and operators quick insight int
 your clouds configuration, state, performance and faults. 
 
 ![AVOS Dashboard](/openstack_dashboard/static/screens/screen1.png "AVOS")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftedg-cisco%2Favos.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftedg-cisco%2Favos?ref=badge_shield)
 
 Install Instructions
 -----------
@@ -110,3 +111,7 @@ The source is maintained in the ``doc/source`` directory using
     $ tools/with_venv.sh sphinx-build doc/source doc/build/html
 
 Results are in the ``doc/build/html`` directory
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftedg-cisco%2Favos.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftedg-cisco%2Favos?ref=badge_large)
